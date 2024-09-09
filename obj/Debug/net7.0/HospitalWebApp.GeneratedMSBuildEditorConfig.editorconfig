@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HospitalWebApp
+build_property.RootNamespace = HospitalWebApp
+build_property.ProjectDir = E:\Tài liệu\7 - SU24\PRN221\PE-SU24\ShopWebApp\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Tài liệu\7 - SU24\PRN221\PE-SU24\ShopWebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Tài liệu/7 - SU24/PRN221/PE-SU24/ShopWebApp/Pages/Appointments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwb2ludG1lbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Tài liệu/7 - SU24/PRN221/PE-SU24/ShopWebApp/Pages/Appointments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwb2ludG1lbnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Tài liệu/7 - SU24/PRN221/PE-SU24/ShopWebApp/Pages/Appointments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwb2ludG1lbnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Tài liệu/7 - SU24/PRN221/PE-SU24/ShopWebApp/Pages/Appointments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwb2ludG1lbnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Tài liệu/7 - SU24/PRN221/PE-SU24/ShopWebApp/Pages/Appointments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwb2ludG1lbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Tài liệu/7 - SU24/PRN221/PE-SU24/ShopWebApp/Pages/Doctors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG9jdG9yc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Tài liệu/7 - SU24/PRN221/PE-SU24/ShopWebApp/Pages/Doctors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG9jdG9yc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Tài liệu/7 - SU24/PRN221/PE-SU24/ShopWebApp/Pages/Doctors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG9jdG9yc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Tài liệu/7 - SU24/PRN221/PE-SU24/ShopWebApp/Pages/Doctors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG9jdG9yc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Tài liệu/7 - SU24/PRN221/PE-SU24/ShopWebApp/Pages/Doctors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG9jdG9yc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Tài liệu/7 - SU24/PRN221/PE-SU24/ShopWebApp/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Tài liệu/7 - SU24/PRN221/PE-SU24/ShopWebApp/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Tài liệu/7 - SU24/PRN221/PE-SU24/ShopWebApp/Pages/Patients/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF0aWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Tài liệu/7 - SU24/PRN221/PE-SU24/ShopWebApp/Pages/Patients/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF0aWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Tài liệu/7 - SU24/PRN221/PE-SU24/ShopWebApp/Pages/Patients/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF0aWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Tài liệu/7 - SU24/PRN221/PE-SU24/ShopWebApp/Pages/Patients/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF0aWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Tài liệu/7 - SU24/PRN221/PE-SU24/ShopWebApp/Pages/Patients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF0aWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Tài liệu/7 - SU24/PRN221/PE-SU24/ShopWebApp/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Tài liệu/7 - SU24/PRN221/PE-SU24/ShopWebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Tài liệu/7 - SU24/PRN221/PE-SU24/ShopWebApp/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Tài liệu/7 - SU24/PRN221/PE-SU24/ShopWebApp/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Tài liệu/7 - SU24/PRN221/PE-SU24/ShopWebApp/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3fh40hwj60
